@@ -1,10 +1,10 @@
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=varun270&label=Profile%20views&color=0e75b6&style=flat" alt="varun270" /></h3>
-<h1 align="center">Hi 👋, I'm Varun Shrivastava</h1>
+<h1 align="center">Hi 👋, I'm Vrushabh Dhote</h1>
 <h3 align="center">A passionate Python Developer from India</h3> <br>
 
-- 🌱 I’m currently learning **Django and Computer Vision**
+- 🌱 I’m currently learning **Java and Ai**
 
-- 📫 How to reach me **varunshrivastava2706@gmail.com**
+- 📫 How to reach me **vrushabhdhote29@gmail.com**
 
 <hr>
 
